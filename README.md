@@ -49,13 +49,3 @@ Dogeflix is a streaming platform where users can watch movies and TV shows. It f
    ```
 
 3. Open your web browser and go to `http://localhost:3000` to view the app.
-
-## Contributing
-
-Contributions are welcome! Please follow these steps:
-
-1. Fork the repository
-2. Create your feature branch: `git checkout -b feature-name`
-3. Commit your changes: `git commit -am 'Add some feature'`
-4. Push to the branch: `git push origin feature-name`
-5. Submit a pull request
