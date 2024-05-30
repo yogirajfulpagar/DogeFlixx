@@ -9,7 +9,7 @@ Dogeflix is a streaming platform where users can watch movies and TV shows. It f
 
 1. Clone the repository:
    ```bash
-   git clone <repository_url>
+   git clone https://github.com/yogirajfulpagar/DogeFlixx.git
    ```
 ````
 
