@@ -5,13 +5,6 @@
 
 Dogeflix is a streaming platform where users can watch movies and TV shows. It features a React frontend for the user interface and an Express.js backend for handling data and requests.
 
-## Table of Contents
-
-- [Installation](#installation)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
-
 ## Installation
 
 1. Clone the repository:
