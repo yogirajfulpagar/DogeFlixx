@@ -1,52 +1,62 @@
-````markdown
+Here is the clean, full Markdown code for your `README.md`. I have fixed the directory nesting and the broken code blocks so it looks professional on GitHub.
+
+```markdown
 # Dogeflix
 
 ## Description
-
-Dogeflix is a streaming platform where users can watch movies and TV shows. It features a React frontend for the user interface and an Express.js backend for handling data and requests.
+Dogeflix is a streaming platform where users can watch movies and TV shows. It features a responsive React frontend for a seamless user interface and a robust Express.js backend for handling data and requests.
 
 ## Installation
 
-1. Clone the repository:
-
+1. **Clone the repository:**
    ```bash
-   git clone https://github.com/yogirajfulpagar/DogeFlixx.git
-   ```
-   
- ```
-2. Navigate to the project directory:
+   git clone [https://github.com/yogirajfulpagar/DogeFlixx.git](https://github.com/yogirajfulpagar/DogeFlixx.git)
+   cd DogeFlixx
 
-   ```bash
-   cd Dogeflix
-   ```
+```
 
-3. Install dependencies for the frontend:
+2. **Install Frontend dependencies:**
+```bash
+cd frontend
+npm install
 
-   ```bash
-   cd frontend
-   npm install
-   ```
+```
 
-4. Install dependencies for the backend:
-   ```bash
-   cd ../backend
-   npm install
-   ```
+
+3. **Install Backend dependencies:**
+```bash
+cd ../backend
+npm install
+
+```
+
+
 
 ## Usage
 
-1. Start the backend server:
+To run the application, you need to start both the backend and the frontend servers.
 
-   ```bash
-   cd ../backend
-   npm start
-   ```
+1. **Start the Backend server:**
+Navigate to the `backend` folder (if not already there) and run:
+```bash
+npm start
 
-2. Start the frontend development server:
+```
 
-   ```bash
-   cd ../frontend
-   npm start
-   ```
 
-3. Open your web browser and go to `http://localhost:3000` to view the app.
+2. **Start the Frontend server:**
+In a **new terminal window**, navigate to the `frontend` folder and run:
+```bash
+npm start
+
+```
+
+
+3. **Access the Application:**
+Open your web browser and go to: `http://localhost:3000`
+
+## Tech Stack
+
+* **Frontend:** React.js
+* **Backend:** Node.js, Express.js
+* **Database:** MongoDB (if applicable)
