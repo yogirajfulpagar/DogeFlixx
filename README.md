@@ -9,9 +9,9 @@ Dogeflix is a streaming platform where users can watch movies and TV shows. It f
 ## Installation
 
 1. **Clone the repository:**
-   ```bash
    git clone [https://github.com/yogirajfulpagar/DogeFlixx.git](https://github.com/yogirajfulpagar/DogeFlixx.git)
    cd DogeFlixx
+   
 
 ```
 
@@ -59,4 +59,4 @@ Open your web browser and go to: `http://localhost:3000`
 
 * **Frontend:** React.js
 * **Backend:** Node.js, Express.js
-* **Database:** MongoDB (if applicable)
+* **Database:** MongoDB
